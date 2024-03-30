@@ -55,7 +55,7 @@ PrintMatrix(matrix);
 
 if (IsExistElement(matrix, numRow, numColumn) == true)
 {
-    Console.WriteLine(matrix[numRow, numColumn]);
+   Console.WriteLine(matrix[numRow, numColumn]);
 }
 else
 {
